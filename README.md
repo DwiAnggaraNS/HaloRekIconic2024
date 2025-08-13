@@ -182,7 +182,7 @@ Our **Extra Trees Classifier** was selected for its superior robustness and abil
 - **Font Awesome** for icons
 - **Interactive animations** for better UX
 
-##💼 My Contributions (Team Leader)
+## 💼 My Contributions (Team Leader)
 
 As the **Team Leader** of HaloRek, I spearheaded multiple critical aspects of this competition-winning project:
 
